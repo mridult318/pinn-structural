@@ -6,7 +6,7 @@ prediction with IS 456 constraints.
 
 Current:
 - [x] Poisson equation (1D) — L2 error: 0.000194
-- [ ] Heat equation (1D)
-- [ ] Euler-Bernoulli beam
+- [ ] Heat equation (1D) - L2 error : 0.00011
+- [ ] Euler-Bernoulli beam - L2 error : 0.00000047 
 - [ ] Timoshenko beam shear
 - [ ] RC beam shear with IS 456 constraints
